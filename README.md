@@ -9,14 +9,14 @@
 
 ---
 
-#### 1. **[Active Directory Domain Services Implementation](https://github.com/kisubiasuman/active-directory-lab)**
+#### 1. **[Active Directory Domain Services Implementation](https://github.com/ASUMERN/Active-Directory-DS)**
 **Enterprise-grade Windows domain environment**
 
 
 #### 2. **[Ticketing System (IT Service Management)](https://github.com/kisubiasuman/ticketing-system)**
 **Full-featured helpdesk ticketing solution**
 
-#### 3. **[CCNA Cisco Networking Labs](https://github.com/kisubiasuman/ccna-cisco-labs)**
+#### 3. **[CCNA Cisco Networking Labs](https://github.com/ASUMERN/CISCONetworkingLab)**
 **Practical Cisco Networking & Infrastructure**
 
 
