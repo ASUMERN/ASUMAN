@@ -1,11 +1,7 @@
-<div align="center">
-  <h1>Hi, I'm Kisubi Asuman 👋</h1>
-  <h3>Network & Systems Administrator | IT Support Specialist</h3>
+<div align="left">
+  <h1>Hi, I'm Kisubi Asuman </h1>
   
-  <img src="https://img.shields.io/badge/Active%20Directory-Expert-blue?style=flat-square" alt="Active Directory" />
-  <img src="https://img.shields.io/badge/CCNA-Cisco-green?style=flat-square" alt="CCNA" />
-  <img src="https://img.shields.io/badge/IT%20Support-Ticketing%20Systems-orange?style=flat-square" alt="Ticketing" />
-</div>
+ </div>
 
 ---
 
@@ -22,32 +18,6 @@
 
 ---
 
-### 🧪 Skills & Technologies
-
-**Networking**
-- Cisco CCNA (Routing, Switching, Wireless, Security)
-- VLANs, OSPF, EIGRP, ACLs, NAT, DHCP
-
-**Systems Administration**
-- Active Directory Domain Services
-- Group Policy Management
-- Windows Server Administration
-
-**IT Support & Tools**
-- Ticketing Systems & ITSM
-- ITIL Fundamentals
-- Technical Troubleshooting
-
-**Tools**
-- Cisco Packet Tracer • Windows Server • PowerShell • Git
-
----
-
-### 📜 Certifications & Learning
-- **Cisco Certified Network Associate (CCNA)** – Intensive Lab Training
-- Active Directory & Windows Server Administration
-
----
 
 ### 📫 Let's Connect
 - **Email**: [asumern@gmail.com](mailto:asumern@gmail.com)
