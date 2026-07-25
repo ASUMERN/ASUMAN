@@ -20,9 +20,9 @@
 
 
 ### 📫 Let's Connect
-- **Email**: [asumern@gmail.com](mailto:asumern@gmail.com)
+- **Email**: [asumern@gmail.com](mailto:kisubi.asum@gmail.com)
 - **LinkedIn**: [linkedin.com/in/kisubiasuman](https://linkedin.com/in/kisubiasuman)
 
 ---
 
-*Always learning • Infrastructure enthusiast • Problem solver*
+*Always learning • Problem solver*
