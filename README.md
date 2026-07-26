@@ -20,7 +20,7 @@
 
 
 ### 📫 Let's Connect
-- **Email**: [asumern@gmail.com](mailto:kisubi.asum@gmail.com)
+- **Email**: [kisubi.asum@gmail.com](mailto:kisubi.asum@gmail.com)
 - **LinkedIn**: [linkedin.com/in/kisubiasuman](https://linkedin.com/in/kisubiasuman)
 
 ---
