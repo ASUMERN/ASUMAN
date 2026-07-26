@@ -9,8 +9,8 @@
 **Enterprise-grade Windows domain environment**
 
 
-#### 2. **[Ticketing System (IT Service Management)](https://github.com/kisubiasuman/ticketing-system)**
-**Full-featured helpdesk ticketing solution**
+#### 2. **[Biometric student attendance system](https://attendify-y612.onrender.com)**
+**Auto face capture to log attendance of students**
 
 #### 3. **[CCNA Cisco Networking Labs](https://github.com/ASUMERN/CISCONetworkingLab)**
 **Practical Cisco Networking & Infrastructure**
