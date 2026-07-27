@@ -10,10 +10,10 @@
 
 
 #### 2. **[Biometric student attendance system](https://attendify-y612.onrender.com)**
-**Auto face capture to log attendance of students**
+**Students Auto face authentication**
 
 #### 3. **[CCNA Cisco Networking Labs](https://github.com/ASUMERN/CISCONetworkingLab)**
-**Practical Cisco Networking & Infrastructure**
+**Cisco Networks and Labs**
 
 
 ---
