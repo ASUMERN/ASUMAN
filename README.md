@@ -5,7 +5,7 @@
 
 ---
 
-#### 1. **[Active Directory Domain Services Implementation](https://github.com/ASUMERN/Active-Directory-DS)**
+#### 1. **[Active Directory Domain Services Implementation](https://github.com/ASUMERN/Active-Directory-Lab/tree/main)**
 **Enterprise-grade Windows domain environment**
 
 
