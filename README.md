@@ -25,4 +25,3 @@
 
 ---
 
-*Always learning • Problem solver*
