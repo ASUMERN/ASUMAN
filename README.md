@@ -8,7 +8,7 @@
 #### 1. **[Active Directory Domain Services Implementation](https://github.com/ASUMERN/Active-Directory-Lab/tree/main)**
 **Enterprise-grade Windows domain environment**
 
-#### 2. **[Help-Deskt Ticket Flow](https://github.com/ASUMERN/CISCONetworkingLab)**
+#### 2. **[Help-Deskt Ticketing System](https://github.com/ASUMERN/Helpdesk-ticketing)**
 **Cisco Networks and Labs**
 
 #### 3. **[CCNA Cisco Networking Labs](https://github.com/ASUMERN/CISCONetworkingLab)**
