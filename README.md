@@ -11,10 +11,7 @@
 #### 2. **[Help-Deskt Ticketing System](https://github.com/ASUMERN/Helpdesk-ticketing)**
 **Cisco Networks and Labs**
 
-#### 3. **[CCNA Cisco Networking Labs](https://github.com/ASUMERN/CISCONetworkingLab)**
-**Cisco Networks and Labs**
-
-#### 4. **[Biometric student attendance system](https://github.com/ASUMERN/attendify)**
+#### 3. **[Biometric student attendance system](https://github.com/ASUMERN/attendify)**
 **Students Auto face authentication**
 
 ---
